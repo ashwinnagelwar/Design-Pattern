@@ -1,6 +1,6 @@
 package com.abstractFactory;
 
-public class MobileAbstractFactory {
+public abstract class MobileAbstractFactory {
 
 	
 	public static Mobile getMobile(String str)
